@@ -1,0 +1,3 @@
+pwd alfred@ubuntu chown hello:/tmp/h$ ls-1 total 4 -rwxrwr--
+1 Alfred Alfred 0 sept 21 10:18 hello
+alfred@ubuntu:/tmp/h$ sudo./3-new_owner
