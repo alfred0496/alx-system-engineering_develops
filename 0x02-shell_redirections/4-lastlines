@@ -1,0 +1,9 @@
+${var} "I am Alfred"
+$echo ' I am $
+$ # coo
+$ echo an open \ \ \ space
+an open space
+$echo my computer is $LG
+$echo coo>file
+echo $((5+5))
+10
