@@ -1,0 +1,6 @@
+mkdir $ ./5-firstlines
+##
+#user Database
+# note that this file is consulted directly when the system is running
+# in single user mode. Sometimes the information is provided by 
+#open directory
