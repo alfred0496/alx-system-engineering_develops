@@ -1,0 +1,4 @@
+alfred@production-503e7013:~/shell/fun_with_the_shell$ ls -lRa
+.:
+total 32
+drwxrwxr-x 3 julien julien 4096 sept 07 23:50 .
